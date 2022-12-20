@@ -1,0 +1,175 @@
+.amm a{
+
+
+}
+.amm{
+background-color: black;
+height: 40px;
+text-decoration: none;
+}
+.abb{
+margin-left: 60px;
+color: aliceblue;
+cursor: pointer;
+
+}
+
+.azz{
+margin-left: 200px;
+width: 400px;
+}
+.aqq{
+  margin-left: 150px; 
+  margin-top: 10px;
+  
+}
+.jj{
+margin-left: 30px;
+color: orange;
+}
+.item{
+ display: flex;
+ padding-top: 70px;
+ margin-left: 20px;
+ flex-wrap: wrap;
+ border-radius: 20px;
+ background-color:beige;
+ font-size: medium;
+}
+.imm{
+ margin-left: 65px;
+ border-radius: 10px;
+}
+  .watch{
+border-radius: 10px;
+background-color: yellow;
+color: black;
+margin-left: 100px;
+height: 20px;
+cursor: pointer;
+margin-bottom: 30px;
+}
+.page{
+width: 400px;
+gap: 100px;
+
+}
+.masqs{
+background-color: beige;
+height: 575px;
+}
+.kkk{
+color: red;
+}
+#ggg{
+height: 300px;
+
+}
+.map{
+margin-top: 15px;
+width: 350px;
+height: 550px;
+margin-left: 10px;
+border-radius: 20px;
+}
+.rak{
+background-color: beige;
+height: 570px;
+display: flex;
+}
+.lom{
+margin-left: 20px;
+
+}
+.pml{
+display: flex;
+
+}
+.ygh{
+margin-top: 40px;
+color: gray;
+}
+.etoi{
+  margin-top: 22px;
+height: 35px;
+margin-left: 10px;
+}
+.ram{
+  margin-left: 10px;
+  height: 60px;
+}
+.hyj{
+margin-top: 30px;
+color: gray;
+}
+.ecri{
+margin-top: -20px;
+font-size: 15px;
+
+}
+.ppp{
+  margin-left: 10px;
+}
+.date{
+color: gray;
+font-size: 15px;
+}
+.ase{
+  display: flex;
+ 
+}
+.april{
+  margin-top: 29px;
+  margin-left: 5px;
+  color: gray;
+}
+.butan{
+  display: flex;
+  gap: 6px;
+}
+#ani{
+ background-color: red;
+ color: aliceblue;
+ font-size: 17px;
+ cursor: pointer;
+}
+#act{
+  background-color: rgb(0, 255, 136);
+  color: aliceblue;
+  font-size: 17px;
+  cursor: pointer;
+ }
+ #dra{
+  background-color: rgb(140, 0, 255);
+  color: aliceblue;
+  font-size: 17px;
+  cursor: pointer;
+ }
+ .gad{
+  font-size: 15px;
+ }
+ .gty{
+  display: flex ;
+  flex-direction: column;
+  
+ }
+ .lad{
+  font-size: 5px;
+ }
+ #haff{
+  margin-left: 10px;
+  font-size: 18px;
+margin-top: 25px;
+background-color:  yellow;
+color:black;
+border: none;
+border-radius: 10px;
+ }
+ .Add{
+  background-color: beige;
+height: 570px;
+ }
+ .App{
+text-decoration: none;
+
+ }
